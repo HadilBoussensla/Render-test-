@@ -20,14 +20,8 @@ This project demonstrates how to deploy a Python web app easily and for free.
 1. **Clone the repository**
    
    git clone https://github.com/HadilBoussensla/Render-test-.git
-   cd <your-repo-name>
-Create a virtual environment (optional but recommended)
-
-bash
-Copier le code
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-
+   cd Render-test-
+   
 
 Install dependencies
 
@@ -37,7 +31,6 @@ pip install -r requirements.txt
 Run the app
 
 streamlit run app.py
-Then open your browser at 👉 http://localhost:8501
 
 📂 Project Structure
 
@@ -71,5 +64,4 @@ Click Create Web Service
 
 👩‍💻 Author
 Created by Hadil Boussensla 💫
-GitHub Profile
 
